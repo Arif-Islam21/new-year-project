@@ -136,3 +136,56 @@ ul li:before {
   font-weight: 600;
   margin: 10px 0 0 65px;
 }
+
+/* footer section starting */
+footer {
+  background: #151414;
+  padding: 130px 230px;
+  display: flex;
+}
+.feature-title {
+  color: #f8f8f8;
+  font-size: 45px;
+  font-weight: 700;
+}
+footer p {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  width: 485px;
+  margin: 20px 0;
+}
+.footer-icons img {
+  margin-right: 15px;
+}
+.subscribe {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 600;
+  padding: 50px 230px;
+}
+.subscribe input {
+  width: 325px;
+  height: 64px;
+  border-radius: 8px;
+  border: 1px solid #fff;
+  background-color: black;
+  margin: 20px 0;
+}
+.subscribe input::placeholder {
+  color: #f3f3f3;
+  font-size: 18px;
+  padding-left: 30px;
+}
+.subscribe-btn {
+  width: 170.106px;
+  height: 64px;
+  display: grid;
+  border-radius: 8px;
+  background: #005fac;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  padding-top: 20px;
+}
